@@ -1,3 +1,3 @@
 # first-website
 Midori's very first, super-basic, HTML-only website. 
-By the end of this project, I will have been able to review my understanding of HTML and apply it in a very basic, HTML-only site. 
+In doing this project, I was able to review my understanding of HTML and implement the basic contcepts into my recipe website. 
